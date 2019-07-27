@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hello! This is my first project for CS50
